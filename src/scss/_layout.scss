@@ -22,6 +22,7 @@
 }
 
 .l-expositions {
+  padding-bottom: 454px;
   font-size: 20px;
   font-family: "Roboto", sans-serif;
   color: white;
@@ -39,4 +40,34 @@
 
 .l-art-algorithmique h2 {
   padding-bottom: 35px;
+}
+
+.l-expo-immersive {
+  margin-top: -80px;
+  padding-left: 691px;
+}
+
+.l-expo-immersive h2 {
+  padding-bottom: 35px;
+}
+
+.l-interfaces-experomentales {
+  margin-top: -40px;
+  padding-left: 62px;
+}
+
+.l-interfaces-experomentales h2 {
+  padding-bottom: 35px;
+}
+
+.l-infos-pratiques {
+  color: white;
+}
+
+.l-infos-pratiques h2 {
+  padding-left: 62px;
+}
+
+.l-cart {
+  background-image: url(../img/little-cart.png);
 }
