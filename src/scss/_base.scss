@@ -1,0 +1,84 @@
+/* ====================================
+// css variables
+// ==================================== */
+
+:root {
+}
+
+/* ====================================
+// reset rules
+// ==================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  max-inline-size: 100%;
+  block-size: auto;
+  vertical-align: middle;
+}
+
+/* ====================================
+// base rules
+// ==================================== */
+
+header {
+  background-image: url(../img/header-footer-background.png);
+}
+
+h1 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 63px;
+}
+
+h2 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 37px;
+}
+
+header nav {
+  padding-left: 683px;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+
+header nav div {
+  padding: 26px 21px 22px 0px;
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+header nav div a {
+  text-decoration: none;
+}
+
+main {
+  background-color: black;
+}
