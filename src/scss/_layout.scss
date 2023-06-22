@@ -228,7 +228,7 @@
   color: white;
   font-size: 60px;
   padding-left: 60px;
-  padding-bottom: 93px;
+  padding-bottom: 86px;
 }
 
 .l-eikon {
@@ -249,4 +249,33 @@
 .l-loterie {
   padding-top: 75px;
   padding-left: 533px;
+}
+
+.l-contact {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  padding-bottom: 112px;
+}
+
+.l-footer-contenue {
+  background-color: black;
+}
+
+.l-footer-contenue p {
+  font-size: 20px;
+  padding-left: 33px;
+}
+
+.l-reseaux img {
+  padding-left: 50px;
+}
+
+.l-reseaux h2 {
+  padding-bottom: 50px;
+}
+
+.l-reseaux {
+  padding-bottom: 115px;
 }
