@@ -8,6 +8,12 @@
   padding-bottom: 75px;
 }
 
+.l-languages :hover {
+  padding: 5px;
+  border: solid 1px;
+  color: white;
+}
+
 .l-trailer {
   padding-top: 324px;
   text-align: end;
@@ -36,13 +42,6 @@
 
 .l-Min-Jae-Park {
   margin-top: -60px;
-}
-
-.l-languages :hover {
-  border-radius: 50px;
-  padding: 5px;
-  background-color: rgb(82, 128, 113);
-  color: white;
 }
 
 .l-papillons {
