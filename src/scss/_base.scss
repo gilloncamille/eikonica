@@ -55,10 +55,11 @@ h1 {
 }
 
 h2 {
-  color: white;
-  font-family: "Roboto", sans-serif;
-  font-weight: lighter;
+  font-family: "bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 37px;
+  color: white;
 }
 
 header nav {
@@ -87,6 +88,10 @@ main {
   background-color: black;
 }
 
+video {
+  padding-left: 60px;
+}
+
 footer {
   padding: 81px 48px;
   background-image: url(../img/header-footer-background.png);
@@ -101,7 +106,7 @@ footer div {
   font-family: "Roboto", sans-serif;
 }
 
-footer h3 {
+footer h2 {
   padding: 50px 1000px 31px 82px;
   font-weight: lighter;
   font-size: 60px;

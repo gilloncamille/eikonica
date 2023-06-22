@@ -1,5 +1,41 @@
 .l-sloggan {
-  padding: 36px 0px 220px 65px;
+  padding: 36px 0px 140px 65px;
+}
+
+.l-logo {
+  padding-left: 65px;
+  margin-top: -42px;
+  padding-bottom: 75px;
+}
+
+.l-trailer {
+  padding-top: 324px;
+  text-align: end;
+  padding-right: 60px;
+}
+
+.l-artistes {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  padding-left: 80px;
+  padding-top: 118px;
+}
+
+.l-artistes h2 {
+  color: white;
+  padding-bottom: 188px;
+}
+
+.l-Kinetic {
+  margin-bottom: -60px;
+}
+
+.l-Neon-Pulse {
+  padding-left: 689px;
+}
+
+.l-Min-Jae-Park {
+  margin-top: -60px;
 }
 
 .l-languages :hover {
@@ -15,8 +51,8 @@
 }
 
 .l-programme {
-  padding-top: 505px;
-  padding-left: 81px;
+  padding-top: 516px;
+  padding-left: 80px;
   color: white;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -24,7 +60,7 @@
 
 .l-programme h2 {
   font-size: 60px;
-  padding-bottom: 38px;
+  padding-bottom: 28px;
 }
 
 .l-programme h3 {
@@ -35,8 +71,13 @@
 
 .l-expositions {
   padding-bottom: 454px;
-  font-size: 20px;
+  font-size: 22px;
   font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.l-expositions h2 {
+  font-size: 60px;
   color: white;
 }
 
@@ -50,7 +91,8 @@
   padding-left: 62px;
 }
 
-.l-art-algorithmique h2 {
+.l-art-algorithmique h3 {
+  font-size: 40px;
   padding-bottom: 35px;
 }
 
@@ -59,7 +101,8 @@
   padding-left: 691px;
 }
 
-.l-expo-immersive h2 {
+.l-expo-immersive h3 {
+  font-size: 40px;
   padding-bottom: 35px;
 }
 
@@ -68,7 +111,8 @@
   padding-left: 62px;
 }
 
-.l-interfaces-experomentales h2 {
+.l-interfaces-experomentales h3 {
+  font-size: 40px;
   padding-bottom: 35px;
 }
 
@@ -80,7 +124,7 @@
 .l-infos-pratiques h2 {
   font-weight: lighter;
   font-size: 60px;
-  padding-left: 62px;
+  padding-left: 101px;
 }
 
 .l-cart img {
@@ -128,7 +172,7 @@
 }
 
 .l-cart-3 {
-  margin-top: -650px;
+  margin-top: -630px;
   padding-left: 690px;
 }
 
@@ -182,12 +226,14 @@
 }
 
 .l-Partenaires h2 {
+  color: white;
   font-size: 60px;
   padding-left: 60px;
   padding-bottom: 93px;
 }
 
 .l-eikon {
+  size: 30px;
   padding-left: 63px;
 }
 
